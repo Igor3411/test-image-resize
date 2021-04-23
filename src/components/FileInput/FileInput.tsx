@@ -10,7 +10,7 @@ const StyledInput = styled.input`
   display: none;
 `;
 
-const StyledButton = styled.input`
+const StyledButton = styled.div`
   width: 100%;
   max-width: 310px;
   height: 60px;
